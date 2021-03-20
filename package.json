@@ -1,0 +1,12 @@
+{
+	"name": "dev-ed-anim-nav",
+	"version": "1.0.0",
+	"description": "",
+	"main": "app.js",
+	"scripts": {
+		"compile-sass": "sass scss/index.scss css/style.css --no-source-map --watch"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC"
+}
